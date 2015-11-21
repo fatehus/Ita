@@ -1,3 +1,5 @@
+# Web Screenshot
+
 After do |scenario|
  if scenario.failed?
    screenshots_dir = File.join(File.dirname(__FILE__), "..", "screenshots")
